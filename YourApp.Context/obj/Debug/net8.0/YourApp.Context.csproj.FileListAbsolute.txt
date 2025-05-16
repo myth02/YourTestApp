@@ -1,0 +1,17 @@
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Context.deps.json
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Context.runtimeconfig.json
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Context.dll
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Context.pdb
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.DTO.dll
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.DTO.pdb
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.csproj.AssemblyReference.cache
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.AssemblyInfoInputs.cache
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.AssemblyInfo.cs
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.csproj.CoreCompileInputs.cache
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp..2A3918B0.Up2Date
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.dll
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\refint\YourApp.Context.dll
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.pdb
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.genruntimeconfig.cache
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\ref\YourApp.Context.dll

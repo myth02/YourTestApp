@@ -1,0 +1,17 @@
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Repository.deps.json
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Repository.dll
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Repository.pdb
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Context.dll
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.DTO.dll
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Context.pdb
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.DTO.pdb
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.csproj.AssemblyReference.cache
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.AssemblyInfoInputs.cache
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.AssemblyInfo.cs
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.csproj.CoreCompileInputs.cache
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp..76A3C05D.Up2Date
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.dll
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\refint\YourApp.Repository.dll
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.pdb
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\ref\YourApp.Repository.dll

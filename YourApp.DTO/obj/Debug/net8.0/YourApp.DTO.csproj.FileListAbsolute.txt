@@ -1,0 +1,11 @@
+E:\repos\YourApp\YourApp.DTO\bin\Debug\net8.0\YourApp.DTO.deps.json
+E:\repos\YourApp\YourApp.DTO\bin\Debug\net8.0\YourApp.DTO.dll
+E:\repos\YourApp\YourApp.DTO\bin\Debug\net8.0\YourApp.DTO.pdb
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.AssemblyInfoInputs.cache
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.AssemblyInfo.cs
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.csproj.CoreCompileInputs.cache
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.dll
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\refint\YourApp.DTO.dll
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.pdb
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\ref\YourApp.DTO.dll

@@ -1,0 +1,11 @@
+E:\repos\YourApp\YourApp.Common\bin\Debug\net8.0\YourApp.Common.deps.json
+E:\repos\YourApp\YourApp.Common\bin\Debug\net8.0\YourApp.Common.dll
+E:\repos\YourApp\YourApp.Common\bin\Debug\net8.0\YourApp.Common.pdb
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\YourApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\YourApp.Common.AssemblyInfoInputs.cache
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\YourApp.Common.AssemblyInfo.cs
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\YourApp.Common.csproj.CoreCompileInputs.cache
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\YourApp.Common.dll
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\refint\YourApp.Common.dll
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\YourApp.Common.pdb
+E:\repos\YourApp\YourApp.Common\obj\Debug\net8.0\ref\YourApp.Common.dll
