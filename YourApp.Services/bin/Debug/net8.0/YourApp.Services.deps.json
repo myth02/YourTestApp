@@ -628,7 +628,9 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5",
-          "YourApp.DTO": "1.0.0"
+          "YourApp.Common": "1.0.0",
+          "YourApp.DTO": "1.0.0",
+          "YourApp.Models": "1.0.0"
         },
         "runtime": {
           "YourApp.Context.dll": {
@@ -640,6 +642,14 @@
       "YourApp.DTO/1.0.0": {
         "runtime": {
           "YourApp.DTO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "YourApp.Models/1.0.0": {
+        "runtime": {
+          "YourApp.Models.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1068,6 +1078,11 @@
       "sha512": ""
     },
     "YourApp.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YourApp.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

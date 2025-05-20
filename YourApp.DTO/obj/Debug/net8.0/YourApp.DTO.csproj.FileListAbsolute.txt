@@ -9,3 +9,4 @@ E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.dll
 E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\refint\YourApp.DTO.dll
 E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.pdb
 E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\ref\YourApp.DTO.dll
+E:\repos\YourApp\YourApp.DTO\obj\Debug\net8.0\YourApp.DTO.sourcelink.json

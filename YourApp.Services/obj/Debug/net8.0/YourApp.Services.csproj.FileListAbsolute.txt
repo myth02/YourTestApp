@@ -19,3 +19,6 @@ E:\repos\YourApp\YourApp.Services\obj\Debug\net8.0\YourApp.Services.dll
 E:\repos\YourApp\YourApp.Services\obj\Debug\net8.0\refint\YourApp.Services.dll
 E:\repos\YourApp\YourApp.Services\obj\Debug\net8.0\YourApp.Services.pdb
 E:\repos\YourApp\YourApp.Services\obj\Debug\net8.0\ref\YourApp.Services.dll
+E:\repos\YourApp\YourApp.Services\bin\Debug\net8.0\YourApp.Models.dll
+E:\repos\YourApp\YourApp.Services\bin\Debug\net8.0\YourApp.Models.pdb
+E:\repos\YourApp\YourApp.Services\obj\Debug\net8.0\YourApp.Services.sourcelink.json

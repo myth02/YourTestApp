@@ -15,3 +15,8 @@ E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\refint\YourApp.Context.dll
 E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.pdb
 E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.genruntimeconfig.cache
 E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\ref\YourApp.Context.dll
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Common.dll
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Models.dll
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Common.pdb
+E:\repos\YourApp\YourApp.Context\bin\Debug\net8.0\YourApp.Models.pdb
+E:\repos\YourApp\YourApp.Context\obj\Debug\net8.0\YourApp.Context.sourcelink.json

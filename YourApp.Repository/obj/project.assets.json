@@ -1004,13 +1004,25 @@
           }
         }
       },
+      "YourApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/YourApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YourApp.Common.dll": {}
+        }
+      },
       "YourApp.Context/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5",
-          "YourApp.DTO": "1.0.0"
+          "YourApp.Common": "1.0.0",
+          "YourApp.DTO": "1.0.0",
+          "YourApp.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/YourApp.Context.dll": {}
@@ -1027,6 +1039,16 @@
         },
         "runtime": {
           "bin/placeholder/YourApp.DTO.dll": {}
+        }
+      },
+      "YourApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/YourApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/YourApp.Models.dll": {}
         }
       }
     }
@@ -2814,6 +2836,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "YourApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../YourApp.Common/YourApp.Common.csproj",
+      "msbuildProject": "../YourApp.Common/YourApp.Common.csproj"
+    },
     "YourApp.Context/1.0.0": {
       "type": "project",
       "path": "../YourApp.Context/YourApp.Context.csproj",
@@ -2823,6 +2850,11 @@
       "type": "project",
       "path": "../YourApp.DTO/YourApp.DTO.csproj",
       "msbuildProject": "../YourApp.DTO/YourApp.DTO.csproj"
+    },
+    "YourApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../YourApp.Models/YourApp.Models.csproj",
+      "msbuildProject": "../YourApp.Models/YourApp.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2906,5 +2938,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

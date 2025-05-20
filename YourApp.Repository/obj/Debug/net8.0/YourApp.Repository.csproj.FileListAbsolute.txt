@@ -15,3 +15,8 @@ E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.dll
 E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\refint\YourApp.Repository.dll
 E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.pdb
 E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\ref\YourApp.Repository.dll
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Common.dll
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Models.dll
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Common.pdb
+E:\repos\YourApp\YourApp.Repository\bin\Debug\net8.0\YourApp.Models.pdb
+E:\repos\YourApp\YourApp.Repository\obj\Debug\net8.0\YourApp.Repository.sourcelink.json

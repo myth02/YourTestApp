@@ -24,6 +24,10 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 builder.Services.AddScoped<IAuthService, AuthService>();
 
+builder.Services.AddScoped<IPlatformService, PlatformService>();
+
+builder.Services.AddScoped<ICommandService, CommandService>();
+
 
 
 builder.Services.AddAuthentication("Bearer")

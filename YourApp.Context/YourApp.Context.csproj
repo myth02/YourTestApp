@@ -16,7 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\YourApp.Common\YourApp.Common.csproj" />
     <ProjectReference Include="..\YourApp.DTO\YourApp.DTO.csproj" />
+    <ProjectReference Include="..\YourApp.Models\YourApp.Models.csproj" />
   </ItemGroup>
 
 </Project>

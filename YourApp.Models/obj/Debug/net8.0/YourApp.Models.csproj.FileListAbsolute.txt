@@ -1,0 +1,12 @@
+E:\repos\YourApp\YourApp.Models\bin\Debug\net8.0\YourApp.Models.deps.json
+E:\repos\YourApp\YourApp.Models\bin\Debug\net8.0\YourApp.Models.dll
+E:\repos\YourApp\YourApp.Models\bin\Debug\net8.0\YourApp.Models.pdb
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\YourApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\YourApp.Models.AssemblyInfoInputs.cache
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\YourApp.Models.AssemblyInfo.cs
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\YourApp.Models.csproj.CoreCompileInputs.cache
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\YourApp.Models.sourcelink.json
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\YourApp.Models.dll
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\refint\YourApp.Models.dll
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\YourApp.Models.pdb
+E:\repos\YourApp\YourApp.Models\obj\Debug\net8.0\ref\YourApp.Models.dll

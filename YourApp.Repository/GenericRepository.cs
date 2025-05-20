@@ -30,5 +30,16 @@ namespace YourApp.Repository
         public async Task AddAsync(T entity) => await _dbSet.AddAsync(entity);
 
         public void Remove(T entity) => _dbSet.Remove(entity);
+
+
+        public void Update(T entity)
+        {
+            _context.Set<T>().Update(entity);
+        }
+
+        public void Delete(T entity)
+        {
+            _context.Set<T>().Remove(entity);
+        }
     }
 }
