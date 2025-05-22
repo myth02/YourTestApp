@@ -16,16 +16,17 @@ namespace YourApp.API.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register(User user, string password)
+        public async Task<IActionResult> Register([FromBody] AuthRequestDto dto)
         {
-            var token = await _authService.RegisterAsync(user, password);
+            var user = new User { Username = dto.Username };
+            var token = await _authService.RegisterAsync(user, dto.Password);
             return Ok(new { Token = token });
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login(string username, string password)
+        public async Task<IActionResult> Login([FromBody] AuthRequestDto dto)
         {
-            var token = await _authService.LoginAsync(username, password);
+            var token = await _authService.LoginAsync(dto.Username, dto.Password);
             if (token == null) return Unauthorized();
             return Ok(new { Token = token });
         }

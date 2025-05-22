@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "E:\\repos\\YourApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|e:\\repos\\yourapp\\yourapp.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|solutionrelative:yourapp.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|e:\\repos\\yourapp\\yourapp.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|solutionrelative:yourapp.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|e:\\repos\\yourapp\\yourapp.context\\yourapp.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|solutionrelative:yourapp.context\\yourapp.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|e:\\repos\\yourapp\\yourapp.context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|solutionrelative:yourapp.context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A33B84-2DDA-40FB-9D19-50CD16E51381}|YourApp.DTO\\YourApp.DTO.csproj|e:\\repos\\yourapp\\yourapp.dto\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A33B84-2DDA-40FB-9D19-50CD16E51381}|YourApp.DTO\\YourApp.DTO.csproj|solutionrelative:yourapp.dto\\authrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|e:\\repos\\yourapp\\yourapp.context\\migrations\\20250520115139_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|solutionrelative:yourapp.context\\migrations\\20250520115139_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\yourapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -13,18 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7DDC74B2-13AF-4213-888A-4FB71313D02A}|YourApp.Repository\\YourApp.Repository.csproj|e:\\repos\\yourapp\\yourapp.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DDC74B2-13AF-4213-888A-4FB71313D02A}|YourApp.Repository\\YourApp.Repository.csproj|solutionrelative:yourapp.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\controllers\\commandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|e:\\repos\\yourapp\\yourapp.services\\commandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,32 +99,12 @@
       "RelativeMoniker": "D:0:0:{A2A33B84-2DDA-40FB-9D19-50CD16E51381}|YourApp.DTO\\YourApp.DTO.csproj|solutionrelative:yourapp.dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|e:\\repos\\yourapp\\yourapp.context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49073AA-7837-456D-B35C-27766337C8F4}|YourApp.Context\\YourApp.Context.csproj|solutionrelative:yourapp.context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3593A0FA-444C-41E0-8761-36C665A70917}|YourApp.Models\\YourApp.Models.csproj|e:\\repos\\yourapp\\yourapp.models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3593A0FA-444C-41E0-8761-36C665A70917}|YourApp.Models\\YourApp.Models.csproj|solutionrelative:yourapp.models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3593A0FA-444C-41E0-8761-36C665A70917}|YourApp.Models\\YourApp.Models.csproj|e:\\repos\\yourapp\\yourapp.models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3593A0FA-444C-41E0-8761-36C665A70917}|YourApp.Models\\YourApp.Models.csproj|solutionrelative:yourapp.models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|e:\\repos\\yourapp\\yourapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB9CA32A-A598-4208-BB9B-46380B00DDE4}|YourApp.API\\YourApp.API.csproj|solutionrelative:yourapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|e:\\repos\\yourapp\\yourapp.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|solutionrelative:yourapp.services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|e:\\repos\\yourapp\\yourapp.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{421251CD-DDC7-46F1-92F5-997E0EEECF2B}|YourApp.Services\\YourApp.Services.csproj|solutionrelative:yourapp.services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DDC74B2-13AF-4213-888A-4FB71313D02A}|YourApp.Repository\\YourApp.Repository.csproj|e:\\repos\\yourapp\\yourapp.repository\\yourapp.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -118,63 +126,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommandsController.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\CommandsController.cs",
-              "RelativeDocumentMoniker": "YourApp.API\\Controllers\\CommandsController.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\CommandsController.cs",
-              "RelativeToolTip": "YourApp.API\\Controllers\\CommandsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:17:16.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlatformsController.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\PlatformsController.cs",
-              "RelativeDocumentMoniker": "YourApp.API\\Controllers\\PlatformsController.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\PlatformsController.cs",
-              "RelativeToolTip": "YourApp.API\\Controllers\\PlatformsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:13:39.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CommandService.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\CommandService.cs",
-              "RelativeDocumentMoniker": "YourApp.Services\\CommandService.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\CommandService.cs",
-              "RelativeToolTip": "YourApp.Services\\CommandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:47:15.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlatformService.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\PlatformService.cs",
-              "RelativeDocumentMoniker": "YourApp.Services\\PlatformService.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\PlatformService.cs",
-              "RelativeToolTip": "YourApp.Services\\PlatformService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:56:16.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "YourApp.Repository\\UnitOfWork.cs",
@@ -182,12 +138,11 @@
               "RelativeToolTip": "YourApp.Repository\\UnitOfWork.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T08:13:25.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T08:13:25.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "YourApp.Repository\\GenericRepository.cs",
@@ -195,12 +150,11 @@
               "RelativeToolTip": "YourApp.Repository\\GenericRepository.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwCIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T08:01:03.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T08:01:03.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "YourApp.Context.csproj",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Context\\YourApp.Context.csproj",
               "RelativeDocumentMoniker": "YourApp.Context\\YourApp.Context.csproj",
@@ -213,137 +167,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "YourApp.API.csproj",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\YourApp.API.csproj",
-              "RelativeDocumentMoniker": "YourApp.API\\YourApp.API.csproj",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\YourApp.API.csproj",
-              "RelativeToolTip": "YourApp.API\\YourApp.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-16T07:44:54.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Repository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "YourApp.Repository\\IUnitOfWork.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Repository\\IUnitOfWork.cs",
-              "RelativeToolTip": "YourApp.Repository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "YourApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "YourApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:58:35.034Z",
+              "WhenOpened": "2025-05-16T09:40:34.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPlatformService.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\IPlatformService.cs",
-              "RelativeDocumentMoniker": "YourApp.Services\\IPlatformService.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\IPlatformService.cs",
-              "RelativeToolTip": "YourApp.Services\\IPlatformService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:54:30.411Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "YourApp.API\\appsettings.json",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\appsettings.json",
+              "RelativeToolTip": "YourApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T08:53:09.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ICommandService.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\ICommandService.cs",
-              "RelativeDocumentMoniker": "YourApp.Services\\ICommandService.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\ICommandService.cs",
-              "RelativeToolTip": "YourApp.Services\\ICommandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:55:15.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Repository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "YourApp.Repository\\IGenericRepository.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Repository\\IGenericRepository.cs",
-              "RelativeToolTip": "YourApp.Repository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:56:05.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Program.cs",
               "RelativeDocumentMoniker": "YourApp.API\\Program.cs",
               "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Program.cs",
               "RelativeToolTip": "YourApp.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T08:54:04.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CommandDto.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.DTO\\CommandDto.cs",
-              "RelativeDocumentMoniker": "YourApp.DTO\\CommandDto.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.DTO\\CommandDto.cs",
-              "RelativeToolTip": "YourApp.DTO\\CommandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:51:59.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "YourApp.Services.csproj",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\YourApp.Services.csproj",
-              "RelativeDocumentMoniker": "YourApp.Services\\YourApp.Services.csproj",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\YourApp.Services.csproj",
-              "RelativeToolTip": "YourApp.Services\\YourApp.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-16T07:49:47.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PlatformDto.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.DTO\\PlatformDto.cs",
-              "RelativeDocumentMoniker": "YourApp.DTO\\PlatformDto.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.DTO\\PlatformDto.cs",
-              "RelativeToolTip": "YourApp.DTO\\PlatformDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:51:22.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.DTO\\User.cs",
-              "RelativeDocumentMoniker": "YourApp.DTO\\User.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.DTO\\User.cs",
-              "RelativeToolTip": "YourApp.DTO\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:41:55.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "YourApp.Context\\AppDbContext.cs",
@@ -356,83 +219,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Command.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Models\\Command.cs",
-              "RelativeDocumentMoniker": "YourApp.Models\\Command.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Models\\Command.cs",
-              "RelativeToolTip": "YourApp.Models\\Command.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "YourApp.API\\Controllers\\PlatformsController.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "YourApp.API\\Controllers\\PlatformsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:37:33.422Z",
+              "WhenOpened": "2025-05-20T11:13:39.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Platform.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Models\\Platform.cs",
-              "RelativeDocumentMoniker": "YourApp.Models\\Platform.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Models\\Platform.cs",
-              "RelativeToolTip": "YourApp.Models\\Platform.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:36:35.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Command.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Models\\Command.cs",
-              "RelativeDocumentMoniker": "YourApp.API\\Models\\Command.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Models\\Command.cs",
-              "RelativeToolTip": "YourApp.API\\Models\\Command.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:10:38.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "YourApp.API\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "YourApp.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T09:40:34.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "YourApp.Services\\AuthService.cs",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\AuthService.cs",
-              "RelativeToolTip": "YourApp.Services\\AuthService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwDUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T08:28:08.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\appsettings.json",
-              "RelativeDocumentMoniker": "YourApp.API\\appsettings.json",
-              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\appsettings.json",
-              "RelativeToolTip": "YourApp.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T08:53:09.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "YourApp.Services\\IAuthService.cs",
@@ -445,7 +245,226 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "YourApp.Services\\AuthService.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\AuthService.cs",
+              "RelativeToolTip": "YourApp.Services\\AuthService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:28:08.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlatformService.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\PlatformService.cs",
+              "RelativeDocumentMoniker": "YourApp.Services\\PlatformService.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\PlatformService.cs",
+              "RelativeToolTip": "YourApp.Services\\PlatformService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:56:16.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommandService.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\CommandService.cs",
+              "RelativeDocumentMoniker": "YourApp.Services\\CommandService.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\CommandService.cs",
+              "RelativeToolTip": "YourApp.Services\\CommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:47:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandsController.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\CommandsController.cs",
+              "RelativeDocumentMoniker": "YourApp.API\\Controllers\\CommandsController.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Controllers\\CommandsController.cs",
+              "RelativeToolTip": "YourApp.API\\Controllers\\CommandsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:17:16.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthRequestDto.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.DTO\\AuthRequestDto.cs",
+              "RelativeDocumentMoniker": "YourApp.DTO\\AuthRequestDto.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.DTO\\AuthRequestDto.cs",
+              "RelativeToolTip": "YourApp.DTO\\AuthRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:18:57.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250520115139_InitialCreate.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Context\\Migrations\\20250520115139_InitialCreate.cs",
+              "RelativeDocumentMoniker": "YourApp.Context\\Migrations\\20250520115139_InitialCreate.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Context\\Migrations\\20250520115139_InitialCreate.cs",
+              "RelativeToolTip": "YourApp.Context\\Migrations\\20250520115139_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:51:41.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "YourApp.API.csproj",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\YourApp.API.csproj",
+              "RelativeDocumentMoniker": "YourApp.API\\YourApp.API.csproj",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\YourApp.API.csproj",
+              "RelativeToolTip": "YourApp.API\\YourApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T07:44:54.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "YourApp.Repository\\IUnitOfWork.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "YourApp.Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:58:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPlatformService.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\IPlatformService.cs",
+              "RelativeDocumentMoniker": "YourApp.Services\\IPlatformService.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\IPlatformService.cs",
+              "RelativeToolTip": "YourApp.Services\\IPlatformService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:54:30.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICommandService.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\ICommandService.cs",
+              "RelativeDocumentMoniker": "YourApp.Services\\ICommandService.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\ICommandService.cs",
+              "RelativeToolTip": "YourApp.Services\\ICommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:55:15.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "YourApp.Repository\\IGenericRepository.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "YourApp.Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:56:05.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommandDto.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.DTO\\CommandDto.cs",
+              "RelativeDocumentMoniker": "YourApp.DTO\\CommandDto.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.DTO\\CommandDto.cs",
+              "RelativeToolTip": "YourApp.DTO\\CommandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:51:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YourApp.Services.csproj",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Services\\YourApp.Services.csproj",
+              "RelativeDocumentMoniker": "YourApp.Services\\YourApp.Services.csproj",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Services\\YourApp.Services.csproj",
+              "RelativeToolTip": "YourApp.Services\\YourApp.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T07:49:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlatformDto.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.DTO\\PlatformDto.cs",
+              "RelativeDocumentMoniker": "YourApp.DTO\\PlatformDto.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.DTO\\PlatformDto.cs",
+              "RelativeToolTip": "YourApp.DTO\\PlatformDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:51:22.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.DTO\\User.cs",
+              "RelativeDocumentMoniker": "YourApp.DTO\\User.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.DTO\\User.cs",
+              "RelativeToolTip": "YourApp.DTO\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:41:55.656Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "Command.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Models\\Command.cs",
+              "RelativeDocumentMoniker": "YourApp.Models\\Command.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Models\\Command.cs",
+              "RelativeToolTip": "YourApp.Models\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:37:33.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Models\\Platform.cs",
+              "RelativeDocumentMoniker": "YourApp.Models\\Platform.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.Models\\Platform.cs",
+              "RelativeToolTip": "YourApp.Models\\Platform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:36:35.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Command.cs",
+              "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.API\\Models\\Command.cs",
+              "RelativeDocumentMoniker": "YourApp.API\\Models\\Command.cs",
+              "ToolTip": "E:\\repos\\YourApp\\YourApp.API\\Models\\Command.cs",
+              "RelativeToolTip": "YourApp.API\\Models\\Command.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:10:38.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "YourApp.Repository.csproj",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Repository\\YourApp.Repository.csproj",
               "RelativeDocumentMoniker": "YourApp.Repository\\YourApp.Repository.csproj",
@@ -458,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\repos\\YourApp\\YourApp.Common\\Class1.cs",
               "RelativeDocumentMoniker": "YourApp.Common\\Class1.cs",
@@ -466,8 +485,7 @@
               "RelativeToolTip": "YourApp.Common\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:41:33.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T07:41:33.026Z"
             }
           ]
         }
